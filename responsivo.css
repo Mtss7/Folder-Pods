@@ -1,0 +1,38 @@
+@media (min-height: 812px) {
+    body{
+        height: 65vh;
+    }
+
+    html{
+        height: 896px;
+    }
+
+
+}
+
+@media (max-height: 836px) {
+
+    body{
+        height: 75vh;
+    }
+
+    html{
+        height: 896px;
+        
+    }
+
+
+}
+
+@media (max-height: 667px) {
+
+    body{
+        height: 85vh;
+    }
+
+    html{
+        height: 896px;
+    }
+
+
+}
